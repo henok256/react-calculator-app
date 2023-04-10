@@ -1,6 +1,12 @@
 # Getting Started with Create React App
+This React calculator app features reusable components and utilizes props to enhance functionality.
+
+Designed for simplicity and ease of use, this calculator is perfect for basic arithmetic operations.
+
+With a focus on modularity and flexibility, this app can easily be customized to fit your needs.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
